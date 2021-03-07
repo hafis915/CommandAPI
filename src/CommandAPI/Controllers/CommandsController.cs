@@ -2,7 +2,7 @@ using System.Collections.Generic; // Support IEnumerable
 using Microsoft.AspNetCore.Mvc; 
 namespace CommandAPI.Controllers
 {
-    [Route("tasks")]
+    [Route("api/[controller]")]
     [ApiController]
     public class CommandsController : ControllerBase // Inherit from controller base
     {
