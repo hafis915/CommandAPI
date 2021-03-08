@@ -21,3 +21,13 @@ C:\Users\User\Documents\sandbox\try-dotnet3\CommandAPISolution\src\CommandAPI\ob
 C:\Users\User\Documents\sandbox\try-dotnet3\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\ref\CommandAPI.dll
 C:\Users\User\Documents\sandbox\try-dotnet3\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.pdb
 C:\Users\User\Documents\sandbox\try-dotnet3\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.genruntimeconfig.cache
+C:\Users\User\Documents\sandbox\try-dotnet3\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Documents\sandbox\try-dotnet3\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\sandbox\try-dotnet3\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\sandbox\try-dotnet3\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\sandbox\try-dotnet3\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\sandbox\try-dotnet3\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\sandbox\try-dotnet3\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Npgsql.dll
+C:\Users\User\Documents\sandbox\try-dotnet3\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\Documents\sandbox\try-dotnet3\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\sandbox\try-dotnet3\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.csproj.CopyComplete
